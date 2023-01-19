@@ -1,2 +1,2 @@
-username = "sa"
-bot_name = "as"
+username = ""
+bot_name = ""
