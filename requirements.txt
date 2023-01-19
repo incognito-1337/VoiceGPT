@@ -1,0 +1,5 @@
+openai
+pyttsx3==2.90
+SpeechRecognition==3.9.0
+os
+time
